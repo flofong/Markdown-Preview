@@ -1,0 +1,61 @@
+body {
+    font-family: 'Pacifico', cursive;
+    background-image: url("https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?cs=srgb&dl=adventure-alps-background-547114.jpg&fm=jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#title {
+    text-align: center;
+    border-width: 1px;
+    font-size: 60px;
+}
+
+#source {
+    height: auto;
+    min-height: 100px;
+    width: 552;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    background: rgba(255, 255, 255, 0.75);
+    
+}
+
+#preview {
+    height: auto;
+    min-height: 100px;
+    width: 530;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 10px;
+
+    border-style: solid;
+    border-width: 1px;
+    
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    background: rgba(255, 255, 255, 0.75);
+    
+}
+
+#render {
+    margin-top: 10px;
+    height: auto; 
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
